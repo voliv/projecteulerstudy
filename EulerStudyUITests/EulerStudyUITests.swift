@@ -6,6 +6,7 @@
 //
 
 import XCTest
+import EulerStudy
 
 class EulerStudyUITests: XCTestCase {
 
